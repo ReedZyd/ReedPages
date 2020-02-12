@@ -1,3 +1,5 @@
+[TOC]
+
 ## Learning Discriminative Model Prediction for Tracking
 
 **DiMP:** Goutam Bhat, Martin Danelljan, Luc Van Gool, Radu Timofte.<br />
