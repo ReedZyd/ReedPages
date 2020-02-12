@@ -9,8 +9,21 @@
 
 * 当inferring the model时，只利用target appearance，忽视背景信息（对区分相似性物体会有用）
 
-* 学到的相似性度量（☞Siamese网络？？）对objects not included in offline training set 可能不管用: poor generalization
+* 学到的相似性度量（☞Siamese网络？？）对不在offline training set的目标可能不管用: poor generalization
 
 * Siamese: no powerful model update strategy, 常用simple template averaging.
 
 So, inferior robustness compared to other SOTA approaches.
+
+## 作者的模型:
+
+可以end-to-end model while maximizing the discriminative ability，achieved by:
+
+* a steepest descent based methodology 计算最优的步长
+
+* a module that can effectively initializes target model
+
+Furthermore:
+
+flexibility: by learning the discriminative learning loss itself.
+
