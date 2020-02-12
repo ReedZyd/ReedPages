@@ -36,8 +36,4 @@ Furthermore:
 
 flexibility: by learning the discriminative learning loss itself.
 
-            </td>
-        </tr>
-    </table>
-</html>
 
