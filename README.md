@@ -1,5 +1,7 @@
 ## Welcome to Reed's Website!
 
-There are something interesting for me, hope you do so!
+Here are some things that I find fun, I hope you think so too.
 
-https://reedzyd.github.io/ReedPages.github.io/
+My profile is https://reedzyd.github.io/.
+
+The website URL is https://reedzyd.github.io/ReedPages.github.io/.
