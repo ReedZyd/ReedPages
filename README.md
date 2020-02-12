@@ -10,4 +10,4 @@ The website URL is https://reedzyd.github.io/ReedPages.github.io/.
 
 ### Tracking
 
-* Learning Discriminative Model Prediction for Tracking [paper] [code] [reading]
+* Learning Discriminative Model Prediction for Tracking. [paper]["url":"http://openaccess.thecvf.com/content_ICCV_2019/papers/Bhat_Learning_Discriminative_Model_Prediction_for_Tracking_ICCV_2019_paper.pdf"] [code] [reading]
