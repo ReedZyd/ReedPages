@@ -1,5 +1,12 @@
-[TOC]
-
+<html>
+    <table style="margin-left: auto; margin-right: auto;">
+        <tr>
+            <td>
+                <!--左侧内容-->
+                
+            </td>
+            <td>
+                <!--右侧内容-->
 ## Learning Discriminative Model Prediction for Tracking
 
 **DiMP:** Goutam Bhat, Martin Danelljan, Luc Van Gool, Radu Timofte.<br />
@@ -28,4 +35,9 @@ So, inferior robustness compared to other SOTA approaches.
 Furthermore:
 
 flexibility: by learning the discriminative learning loss itself.
+
+            </td>
+        </tr>
+    </table>
+</html>
 
