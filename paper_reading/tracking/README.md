@@ -5,7 +5,7 @@
   [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Bhat_Learning_Discriminative_Model_Prediction_for_Tracking_ICCV_2019_paper.pdf)]
   [[code](https://github.com/visionml/pytracking)]
 
-### Siamese 3个限制：
+### **Siamese** 3个限制：
 
 * 当inferring the model时，只利用target appearance，忽视背景信息（对区分相似性物体会有用）
 
@@ -15,7 +15,7 @@
 
 So, inferior robustness compared to other SOTA approaches.
 
-### 作者的模型:
+### 作者的模型：
 
 可以end-to-end model while maximizing the discriminative ability，achieved by:
 
@@ -23,8 +23,19 @@ So, inferior robustness compared to other SOTA approaches.
 
 * a module that can effectively initializes target model
 
-Furthermore:
+**Furthermore**:
 
 flexibility: by learning the discriminative learning loss itself.
+
+### Method:
+
+a discriminative model prediction architecture
+
+来源于：
+
+* A discriminative learning loss 促进鲁棒性
+
+* A powerful optimization strategy 保证收敛速度
+
 
 
