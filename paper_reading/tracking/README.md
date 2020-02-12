@@ -1,12 +1,3 @@
-<html>
-    <table style="margin-left: auto; margin-right: auto;">
-        <tr>
-            <td>
-                <!--左侧内容-->
-                左边
-            </td>
-            <td>
-                <!--右侧内容-->
 ## Learning Discriminative Model Prediction for Tracking
 
 **DiMP:** Goutam Bhat, Martin Danelljan, Luc Van Gool, Radu Timofte.<br />
