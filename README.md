@@ -8,8 +8,7 @@ The website URL is https://reedzyd.github.io/ReedPages/.
 
 `sh <(curl https://j.mp/spf13-vim3 -L)`
 
-`pip install pip -U
-pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple`
+`pip install pip -U && pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple`
 
 
 ## Something about paper reading
