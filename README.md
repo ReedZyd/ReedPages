@@ -6,6 +6,12 @@ My profile is https://reedzyd.github.io/.
 
 The website URL is https://reedzyd.github.io/ReedPages/.
 
+## Common configuration
+
+`sudo apt-get install tmux`
+
+`sh <(curl https://j.mp/spf13-vim3 -L)`
+
 ## Something about paper reading
 
 ### Tracking
