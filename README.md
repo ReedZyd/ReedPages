@@ -6,6 +6,8 @@ The website URL is https://reedzyd.github.io/ReedPages/.
 
 `sudo apt-get install tmux`
 
+`https://github.com/eriklindernoren/PyTorch-YOLOv3/commit/930c5872eea3d22233805f3f693dd5c9a9892707
+
 `https://github.com/transedward/pytorch-dqn.git`
 `https://github.com/blackredscarf/pytorch-DQN.git`
 
