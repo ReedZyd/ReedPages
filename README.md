@@ -7,6 +7,7 @@ The website URL is https://reedzyd.github.io/ReedPages/.
 `sudo apt-get install tmux`
 
 `https://github.com/transedward/pytorch-dqn.git`
+`https://github.com/blackredscarf/pytorch-DQN.git`
 
 `sh <(curl https://j.mp/spf13-vim3 -L)`
 
