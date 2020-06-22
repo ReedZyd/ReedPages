@@ -11,7 +11,7 @@
 ## 分区
 
 下载时选择something else, 分区如下（500G+2T）
-![1592811018569](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\1592811022128.png)
+![]()
 
 ## apt换源
 
