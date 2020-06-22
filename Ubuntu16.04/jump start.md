@@ -1,14 +1,14 @@
 # Ubuntu16.04装机
 
 **2080Ti Cuda10.1 Cudnn7.6.5**
-  * [制作启动盘](## 制作启动盘)
-  * [分区](## 分区)
-  * [apt换源](## apt换源)
-  * [配置tmux、vim](## 配置tmux、vim)
-  * [硬盘挂载](## 硬盘挂载)
-  * [安装teamviewer、vscode](## 安装teamviewer、vscode)
-  * [安装ssh和远程桌面](## 安装ssh和远程桌面)
-    + [安装ssh](### 安装ssh)
+  * [制作启动盘](##制作启动盘)
+  * [分区](##分区)
+  * [apt换源](##apt换源)
+  * [配置tmux、vim](##配置tmux、vim)
+  * [硬盘挂载](##硬盘挂载)
+  * [安装teamviewer、vscode](##安装teamviewer、vscode)
+  * [安装ssh和远程桌面](##安装ssh和远程桌面)
+    + [安装ssh](###安装ssh)
     + [安装远程桌面](#------)
     + [配置](#--)
       - [新机器设置端口转发：hiwifi.com 互联网-超级端口转发](#----------hiwificom-----------)
