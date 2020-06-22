@@ -11,7 +11,7 @@
 ## 分区
 
 下载时选择something else, 分区如下（500G+2T）
-![]([https://github.com/ReedZyd/ReedPages/blob/master/Ubuntu16.04/ubuntu%E8%A3%85%E6%9C%BA%E5%88%86%E5%8C%BA.jpg](https://github.com/ReedZyd/ReedPages/blob/master/Ubuntu16.04/ubuntu装机分区.jpg)
+![](https://github.com/ReedZyd/ReedPages/blob/master/Ubuntu16.04/ubuntu装机分区.jpg)
 
 ## apt换源
 
