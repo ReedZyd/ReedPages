@@ -1,4 +1,4 @@
-# Ubuntu16.04装机
+# @TOC(Ubuntu16.04装机)
 
 **2080Ti Cuda10.1 Cudnn7.6.5**
 
@@ -11,6 +11,7 @@
 ## 分区
 
 下载时选择something else, 分区如下（500G+2T）
+500G
 ![](https://github.com/ReedZyd/ReedPages/blob/master/Ubuntu16.04/ubuntu%E8%A3%85%E6%9C%BA%E5%88%86%E5%8C%BA.jpg)
 
 ## apt换源
