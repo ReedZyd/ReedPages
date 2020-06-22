@@ -1,12 +1,14 @@
-- [Ubuntu16.04装机](#ubuntu1604--)
-  * [制作启动盘](#-----)
-  * [分区](#--)
-  * [apt换源](#apt--)
-  * [配置tmux、vim](#--tmux-vim)
-  * [硬盘挂载](#----)
-  * [安装teamviewer](#--teamviewer)
-  * [安装ssh和远程桌面](#--ssh-----)
-    + [安装ssh](#--ssh)
+# Ubuntu16.04装机
+
+**2080Ti Cuda10.1 Cudnn7.6.5**
+  * [制作启动盘](## 制作启动盘)
+  * [分区](## 分区)
+  * [apt换源](## apt换源)
+  * [配置tmux、vim](## 配置tmux、vim)
+  * [硬盘挂载](## 硬盘挂载)
+  * [安装teamviewer、vscode](## 安装teamviewer、vscode)
+  * [安装ssh和远程桌面](## 安装ssh和远程桌面)
+    + [安装ssh](### 安装ssh)
     + [安装远程桌面](#------)
     + [配置](#--)
       - [新机器设置端口转发：hiwifi.com 互联网-超级端口转发](#----------hiwificom-----------)
@@ -24,11 +26,6 @@
   * [pip换源](#pip--)
   * [添加用户](#----)
   * [安装mujoco](#--mujoco)
-
-# Ubuntu16.04装机
-
-**2080Ti Cuda10.1 Cudnn7.6.5**
-
 ## 制作启动盘
 
 镜像源：https://mirrors.tuna.tsinghua.edu.cn/ubuntu-releases/16.04/
@@ -79,7 +76,7 @@ vim /etc/fstab
 添加到最后一行：UUID=*************  /DATA  ext4  defaults  0  1 
 (ls -l /dev/disk/by-uuid | grep sda查看UUID)
 
-## 安装teamviewer
+## 安装teamviewer、vscode
 
 `sudo dpkg -i xxx.deb` 若缺少依赖：sudo apt install -f
 
